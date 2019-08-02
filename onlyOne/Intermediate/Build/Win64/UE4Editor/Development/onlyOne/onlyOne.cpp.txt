@@ -1,2 +1,0 @@
-C:\Users\jspra\Documents\GitHub\GMTKGameJam\onlyOne\Intermediate\Build\Win64\UE4Editor\Development\onlyOne\Definitions.onlyOne.h
-c:\users\jspra\documents\github\gmtkgamejam\onlyone\source\onlyone\onlyOne.h

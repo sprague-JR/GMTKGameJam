@@ -1,3 +1,0 @@
-C:\Users\jspra\Documents\GitHub\GMTKGameJam\onlyOne\Source\onlyOne\onlyOne.Build.cs
-C:\Users\jspra\Documents\GitHub\GMTKGameJam\onlyOne\Source\onlyOne.Target.cs
-C:\Users\jspra\Documents\GitHub\GMTKGameJam\onlyOne\Source\onlyOneEditor.Target.cs
