@@ -10,6 +10,7 @@ UENUM(BlueprintType)
 enum class CameraState : uint8
 {
 	EStationary UMETA(DisplayName = "Stationary"),
+	EBeingThrown UMETA(DisplayName = "Being Thrown"),
 	EThrown UMETA(DisplayName = "Moving"),
 	ERotating UMETA(DisplayName = "Looking At Player"),
 	ECarried UMETA(DisplayName = "Being Carried")
