@@ -79,3 +79,4 @@ DerivedDataCache/*
 # Ignore Unreal StarterContent
 Content/StarterContent/*
 
+Content/SeansDebugFolder/*
